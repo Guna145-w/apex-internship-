@@ -252,5 +252,3 @@ This internship provided hands-on experience in the complete data analytics work
 ## 👨‍💻 Author
 
  **C Guna Vardhan Reddy**
- **ApexPlanet Data Analytics Internship**
- **Tools:** Python • Pandas • NumPy • SciPy • Power BI • Jupyter Notebook • GitHub
