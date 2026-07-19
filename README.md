@@ -76,6 +76,8 @@ Understand the dataset and improve its quality through preprocessing and data cl
 * Data Preprocessing
 * Data Wrangling
 * Pandas Operations
+### Repository:
+https://github.com/Guna145-w/task1
 
 ---
 
@@ -107,6 +109,8 @@ Analyze the cleaned dataset to identify patterns, trends, and business insights.
 * Data Visualization
 * KPI Development
 * Business Insight Generation
+### Repository:
+https://github.com/Guna145-w/task-2-
 
 ---
 
@@ -138,6 +142,8 @@ Build an interactive dashboard to visualize KPIs and business performance.
 * Power BI
 * Python
 * Pandas
+### Repository:
+https://github.com/Guna145-w/Cafe-Sales-Deep-Dive-Analysis-Interactive-Dashboard
 
 ---
 
@@ -175,6 +181,9 @@ The hypothesis test provided statistical evidence to support data-driven decisio
 * Statistical Analysis
 * Hypothesis Testing
 * Business Communication
+
+### Repository:
+https://github.com/Guna145-w/apex-task-4-
 
 ---
 
